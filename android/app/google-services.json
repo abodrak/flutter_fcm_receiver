@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "63754329345",
+    "firebase_url": "https://veemu-33e81.firebaseio.com",
+    "project_id": "veemu-33e81",
+    "storage_bucket": "veemu-33e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63754329345:android:16b2ffc7acd7a789a14f00",
+        "android_client_info": {
+          "package_name": "com.abodrak.fcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63754329345-6edl0ibfuvh3cbh4hthqssdq0m3rd8eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abodrak.fcm_test",
+            "certificate_hash": "f40d75a0f15ac708aa2d1e14526e6a79370bc447"
+          }
+        },
+        {
+          "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwVoEZLWpqDOrnhEOi12I1EkUdIW_yb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63754329345-due3iraksq0715t4hs52spvv3452rsc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.call4h"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63754329345:android:219d93fbbb1da111a14f00",
+        "android_client_info": {
+          "package_name": "com.abodrak.humed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63754329345-7huj289rvt79mtuvg6i1bo0m5log0v0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abodrak.humed",
+            "certificate_hash": "f40d75a0f15ac708aa2d1e14526e6a79370bc447"
+          }
+        },
+        {
+          "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwVoEZLWpqDOrnhEOi12I1EkUdIW_yb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63754329345-mucf82vapkbn2t4kv30docfu6hh953eh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63754329345-due3iraksq0715t4hs52spvv3452rsc3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.call4h"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
